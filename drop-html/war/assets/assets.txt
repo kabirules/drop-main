@@ -1,0 +1,7 @@
+d:
+d:data
+i:data/bucket.png
+a:data/drop.wav
+i:data/droplet.png
+i:data/libgdx.png
+a:data/rain.mp3
